@@ -3,8 +3,8 @@ public class CobaVar {
         String namaDepan = "Arfiko";
         String namaBelakang = "Sutanto";
         int umur = 18;
-        double tinggiBadan = 165;
-        double beratBadan = 55.5;
+        double tinggiBadan = 175;
+        double beratBadan = 60.0;
 
         System.out.println("Nama : " + namaDepan + " " + namaBelakang);
         System.out.println("Umur : " + umur + " tahun");

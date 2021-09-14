@@ -1,8 +1,8 @@
 namaDepan = "Arfiko"
-namaBelakang = "Sutanto"
+namaBelakang = " Sutanto"
 umur = 18
-tinggiBadan = 1.65
-beratBadan = 55.5
+tinggiBadan = 1.75
+beratBadan = 60.0
 
 print("Nama saya adalah " + namaDepan + namaBelakang)
 print("Umur saya adalah " + str(umur) + " tahun")
