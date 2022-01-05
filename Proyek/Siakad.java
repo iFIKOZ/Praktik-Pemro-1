@@ -21,13 +21,13 @@ public class Siakad {
                 siakad.editNama();
             } else if (menu==6) {
                 siakad.hapusData();
-            }
+            } 
         }
     }
 
     private static int tampilanMenu() {
         Scanner scan = new Scanner(System.in);
-        System.out.println("----Menu----");
+        System.out.println("------Menu------");
         System.out.println("1. Lihat Data");
         System.out.println("2. Tambah Data");
         System.out.println("3. Cari Data");
@@ -128,6 +128,7 @@ public class Siakad {
             lihatData();
         }
     }
+
 
     public void rerataIPK() {
         double total = 0.0;
