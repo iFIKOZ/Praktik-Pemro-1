@@ -27,7 +27,7 @@ public class Siakad {
 
     private static int tampilanMenu() {
         Scanner scan = new Scanner(System.in);
-        System.out.println("..Menu..");
+        System.out.println("----Menu----");
         System.out.println("1. Lihat Data");
         System.out.println("2. Tambah Data");
         System.out.println("3. Cari Data");
